@@ -1,0 +1,14 @@
+D:\ATMTask\ATMAPP2\obj\Debug\netcoreapp3.1\ATMAPP2.csproj.AssemblyReference.cache
+D:\ATMTask\ATMAPP2\obj\Debug\netcoreapp3.1\ATMAPP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATMTask\ATMAPP2\obj\Debug\netcoreapp3.1\ATMAPP2.AssemblyInfoInputs.cache
+D:\ATMTask\ATMAPP2\obj\Debug\netcoreapp3.1\ATMAPP2.AssemblyInfo.cs
+D:\ATMTask\ATMAPP2\obj\Debug\netcoreapp3.1\ATMAPP2.csproj.CoreCompileInputs.cache
+D:\ATMTask\ATMAPP2\bin\Debug\netcoreapp3.1\ATMAPP2.exe
+D:\ATMTask\ATMAPP2\bin\Debug\netcoreapp3.1\ATMAPP2.deps.json
+D:\ATMTask\ATMAPP2\bin\Debug\netcoreapp3.1\ATMAPP2.runtimeconfig.json
+D:\ATMTask\ATMAPP2\bin\Debug\netcoreapp3.1\ATMAPP2.runtimeconfig.dev.json
+D:\ATMTask\ATMAPP2\bin\Debug\netcoreapp3.1\ATMAPP2.dll
+D:\ATMTask\ATMAPP2\bin\Debug\netcoreapp3.1\ATMAPP2.pdb
+D:\ATMTask\ATMAPP2\obj\Debug\netcoreapp3.1\ATMAPP2.dll
+D:\ATMTask\ATMAPP2\obj\Debug\netcoreapp3.1\ATMAPP2.pdb
+D:\ATMTask\ATMAPP2\obj\Debug\netcoreapp3.1\ATMAPP2.genruntimeconfig.cache

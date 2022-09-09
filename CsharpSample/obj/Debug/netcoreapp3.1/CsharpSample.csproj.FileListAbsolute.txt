@@ -1,0 +1,14 @@
+D:\ATMTask\CsharpSample\bin\Debug\netcoreapp3.1\CsharpSample.exe
+D:\ATMTask\CsharpSample\bin\Debug\netcoreapp3.1\CsharpSample.deps.json
+D:\ATMTask\CsharpSample\bin\Debug\netcoreapp3.1\CsharpSample.runtimeconfig.json
+D:\ATMTask\CsharpSample\bin\Debug\netcoreapp3.1\CsharpSample.runtimeconfig.dev.json
+D:\ATMTask\CsharpSample\bin\Debug\netcoreapp3.1\CsharpSample.dll
+D:\ATMTask\CsharpSample\bin\Debug\netcoreapp3.1\CsharpSample.pdb
+D:\ATMTask\CsharpSample\obj\Debug\netcoreapp3.1\CsharpSample.csproj.AssemblyReference.cache
+D:\ATMTask\CsharpSample\obj\Debug\netcoreapp3.1\CsharpSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATMTask\CsharpSample\obj\Debug\netcoreapp3.1\CsharpSample.AssemblyInfoInputs.cache
+D:\ATMTask\CsharpSample\obj\Debug\netcoreapp3.1\CsharpSample.AssemblyInfo.cs
+D:\ATMTask\CsharpSample\obj\Debug\netcoreapp3.1\CsharpSample.csproj.CoreCompileInputs.cache
+D:\ATMTask\CsharpSample\obj\Debug\netcoreapp3.1\CsharpSample.dll
+D:\ATMTask\CsharpSample\obj\Debug\netcoreapp3.1\CsharpSample.pdb
+D:\ATMTask\CsharpSample\obj\Debug\netcoreapp3.1\CsharpSample.genruntimeconfig.cache

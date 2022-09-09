@@ -1,0 +1,16 @@
+D:\ATMTask\App\bin\Debug\netcoreapp3.1\App.exe
+D:\ATMTask\App\bin\Debug\netcoreapp3.1\App.deps.json
+D:\ATMTask\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+D:\ATMTask\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+D:\ATMTask\App\bin\Debug\netcoreapp3.1\App.dll
+D:\ATMTask\App\bin\Debug\netcoreapp3.1\App.pdb
+D:\ATMTask\App\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+D:\ATMTask\App\obj\Debug\netcoreapp3.1\App.csproj.AssemblyReference.cache
+D:\ATMTask\App\obj\Debug\netcoreapp3.1\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATMTask\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+D:\ATMTask\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+D:\ATMTask\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+D:\ATMTask\App\obj\Debug\netcoreapp3.1\App.csproj.CopyComplete
+D:\ATMTask\App\obj\Debug\netcoreapp3.1\App.dll
+D:\ATMTask\App\obj\Debug\netcoreapp3.1\App.pdb
+D:\ATMTask\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache

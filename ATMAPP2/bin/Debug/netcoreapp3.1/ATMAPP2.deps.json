@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ATMAPP2/1.0.0": {
+        "runtime": {
+          "ATMAPP2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATMAPP2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
