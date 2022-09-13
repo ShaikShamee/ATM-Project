@@ -1,0 +1,6 @@
+D:\ATMTask\Department\bin\Debug\Department.dll
+D:\ATMTask\Department\bin\Debug\Department.pdb
+D:\ATMTask\Department\obj\Debug\Department.csproj.AssemblyReference.cache
+D:\ATMTask\Department\obj\Debug\Department.csproj.CoreCompileInputs.cache
+D:\ATMTask\Department\obj\Debug\Department.dll
+D:\ATMTask\Department\obj\Debug\Department.pdb

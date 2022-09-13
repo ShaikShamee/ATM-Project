@@ -1,0 +1,9 @@
+D:\ATMTask\CarManufacture\bin\Debug\CarManufacture.dll
+D:\ATMTask\CarManufacture\bin\Debug\CarManufacture.pdb
+D:\ATMTask\CarManufacture\obj\Debug\CarManufacture.csproj.AssemblyReference.cache
+D:\ATMTask\CarManufacture\obj\Debug\CarManufacture.csproj.CoreCompileInputs.cache
+D:\ATMTask\CarManufacture\obj\Debug\CarManufacture.dll
+D:\ATMTask\CarManufacture\obj\Debug\CarManufacture.pdb
+D:\ATMTask\CarManufacture\bin\Debug\Employee.dll
+D:\ATMTask\CarManufacture\bin\Debug\Employee.pdb
+D:\ATMTask\CarManufacture\obj\Debug\CarManufacture.csproj.CopyComplete

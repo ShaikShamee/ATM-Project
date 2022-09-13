@@ -1,0 +1,5 @@
+D:\ATMTask\AdminPage\bin\Debug\AdminPage.dll
+D:\ATMTask\AdminPage\bin\Debug\AdminPage.pdb
+D:\ATMTask\AdminPage\obj\Debug\AdminPage.csproj.CoreCompileInputs.cache
+D:\ATMTask\AdminPage\obj\Debug\AdminPage.dll
+D:\ATMTask\AdminPage\obj\Debug\AdminPage.pdb

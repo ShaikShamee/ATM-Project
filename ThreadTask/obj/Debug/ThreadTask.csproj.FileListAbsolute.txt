@@ -1,0 +1,7 @@
+D:\ATMTask\ThreadTask\bin\Debug\ThreadTask.exe.config
+D:\ATMTask\ThreadTask\bin\Debug\ThreadTask.exe
+D:\ATMTask\ThreadTask\bin\Debug\ThreadTask.pdb
+D:\ATMTask\ThreadTask\obj\Debug\ThreadTask.csproj.AssemblyReference.cache
+D:\ATMTask\ThreadTask\obj\Debug\ThreadTask.csproj.CoreCompileInputs.cache
+D:\ATMTask\ThreadTask\obj\Debug\ThreadTask.exe
+D:\ATMTask\ThreadTask\obj\Debug\ThreadTask.pdb

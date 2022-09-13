@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CarTask/1.0.0": {
+        "dependencies": {
+          "CarManufacture": "1.0.0",
+          "Department": "1.0.0",
+          "Employee": "1.0.0"
+        },
+        "runtime": {
+          "CarTask.dll": {}
+        }
+      },
+      "CarManufacture/1.0.0": {
+        "runtime": {
+          "CarManufacture.dll": {}
+        }
+      },
+      "Department/1.0.0": {
+        "runtime": {
+          "Department.dll": {}
+        }
+      },
+      "Employee/1.0.0": {
+        "runtime": {
+          "Employee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarManufacture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Department/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

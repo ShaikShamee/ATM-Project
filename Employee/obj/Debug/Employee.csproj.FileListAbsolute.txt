@@ -1,0 +1,9 @@
+D:\ATMTask\Employee\bin\Debug\Employee.dll
+D:\ATMTask\Employee\bin\Debug\Employee.pdb
+D:\ATMTask\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\ATMTask\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\ATMTask\Employee\obj\Debug\Employee.dll
+D:\ATMTask\Employee\obj\Debug\Employee.pdb
+D:\ATMTask\Employee\bin\Debug\System.Data.SqlClient.dll
+D:\ATMTask\Employee\bin\Debug\System.Data.SqlClient.xml
+D:\ATMTask\Employee\obj\Debug\Employee.csproj.CopyComplete
