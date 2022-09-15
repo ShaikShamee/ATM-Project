@@ -1,0 +1,14 @@
+D:\ATMTask\ThreadingTask\bin\Debug\netcoreapp3.1\ThreadingTask.exe
+D:\ATMTask\ThreadingTask\bin\Debug\netcoreapp3.1\ThreadingTask.deps.json
+D:\ATMTask\ThreadingTask\bin\Debug\netcoreapp3.1\ThreadingTask.runtimeconfig.json
+D:\ATMTask\ThreadingTask\bin\Debug\netcoreapp3.1\ThreadingTask.runtimeconfig.dev.json
+D:\ATMTask\ThreadingTask\bin\Debug\netcoreapp3.1\ThreadingTask.dll
+D:\ATMTask\ThreadingTask\bin\Debug\netcoreapp3.1\ThreadingTask.pdb
+D:\ATMTask\ThreadingTask\obj\Debug\netcoreapp3.1\ThreadingTask.csproj.AssemblyReference.cache
+D:\ATMTask\ThreadingTask\obj\Debug\netcoreapp3.1\ThreadingTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATMTask\ThreadingTask\obj\Debug\netcoreapp3.1\ThreadingTask.AssemblyInfoInputs.cache
+D:\ATMTask\ThreadingTask\obj\Debug\netcoreapp3.1\ThreadingTask.AssemblyInfo.cs
+D:\ATMTask\ThreadingTask\obj\Debug\netcoreapp3.1\ThreadingTask.csproj.CoreCompileInputs.cache
+D:\ATMTask\ThreadingTask\obj\Debug\netcoreapp3.1\ThreadingTask.dll
+D:\ATMTask\ThreadingTask\obj\Debug\netcoreapp3.1\ThreadingTask.pdb
+D:\ATMTask\ThreadingTask\obj\Debug\netcoreapp3.1\ThreadingTask.genruntimeconfig.cache
