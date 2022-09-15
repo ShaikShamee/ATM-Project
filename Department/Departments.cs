@@ -8,8 +8,10 @@ using System.Threading.Tasks;
 
 namespace Department
 {
-    public class Departments:IDepartment
-    {
+    public delegate void GetDepartmentDel();
+    public delegate void InsertDepartmentDel();  
+     public class Departments:IDepartment
+     {
         SqlConnection scon = new SqlConnection("server=localhost;database=BhavnaCrop;Integrated Security=true;");
         public int DeptId { get; set; }
         public string DeptName { get; set; }
@@ -57,6 +59,7 @@ namespace Department
                 scon.Open();
                 scmd1.ExecuteNonQuery();
                 scon.Close();
+                Console.WriteLine("Inserted Department Data Successfully");
             }
             catch (Exception ex)
             {

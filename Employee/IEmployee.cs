@@ -8,9 +8,7 @@ namespace Employee
 {
   public  interface IEmployee
     {
-        void insertEmployee();
-        //void UpdateEmployee();
-       // void DeleteEmployee();
+        void InsertEmployee();
         void GetAllEmployee();
 
     }

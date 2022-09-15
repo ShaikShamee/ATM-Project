@@ -2,13 +2,16 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Employee
 {
-    public class Employees:IEmployee
+    public delegate void GetAllEmployeeDel();
+    public delegate void InsertEmployeeDel();
+    public class Employees : IEmployee
     {
         public int EmpId { get; set; }
         public string EmpName { get; set; }
@@ -23,9 +26,10 @@ namespace Employee
         public int ExtraHour { get; set; }
         public int ExtraAmount { get; set; }
         public int PerDayAmount { get; set; }
+        public int WorkingDay { get; set; }
 
         public int EmpCount { get; set; }
-        public int TotalSalary;
+        public int TotalMonthSalary;
         SqlConnection scon = new SqlConnection("server=localhost;database=BhavnaCrop;Integrated Security=true;");
         public int GetTotalSalary()
         {
@@ -35,10 +39,12 @@ namespace Employee
             int ExtraHour = int.Parse(Console.ReadLine());
             Console.Write("Enter the EmployeePerDayAmount:");
             int PerDayAmount = int.Parse(Console.ReadLine());
+            Console.Write("Enter the WorkingDays:");
+            int WorkingDay = int.Parse(Console.ReadLine());
             int perHourAmount = (PerDayAmount / DailyHour);
-            int ExtraAmount = 2 * ExtraHour * perHourAmount;
-             TotalSalary = (PerDayAmount * DailyHour * 30) + ExtraAmount;
-            return TotalSalary;
+            int ExtraAmount = 2 * (ExtraHour * perHourAmount);
+            TotalMonthSalary = (PerDayAmount * DailyHour * WorkingDay) + ExtraAmount;
+            return TotalMonthSalary;
 
         }
 
@@ -69,7 +75,7 @@ namespace Employee
 
         }
 
-        public void insertEmployee()
+        public void InsertEmployee()
         {
             Employees emp = new Employees();
             try
@@ -80,9 +86,8 @@ namespace Employee
                 string EmpName = Console.ReadLine();
                 Console.Write("Enter the EmployeeAddress:");
                 string EmpAddress = Console.ReadLine();
-                //Console.Write("Enter the EmployeeSalary:");
                 int EmpSalary = emp.GetTotalSalary();
-                Console.WriteLine("Total Salary:"+EmpSalary);
+                Console.WriteLine("Total Salary:" + EmpSalary);
                 Console.Write("Enter the EmployeePhoneNumber:");
                 string Empphone = Console.ReadLine();
                 Console.Write("Enter the EmployeeEmail:");
@@ -92,12 +97,17 @@ namespace Employee
                 scon.Open();
                 scmd1.ExecuteNonQuery();
                 scon.Close();
+                Console.WriteLine("Inserted Employee Data Successfully");
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
 
         }
+
+        
+
+
     }
 }

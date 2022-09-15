@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 
 namespace CarManufacture
 {
+    public delegate void GetManfactureListDel();
+    public delegate void InsertManfactureDataDel();
     public class CarManufactures:ICarManufacture
     {
         SqlConnection scon = new SqlConnection("server=localhost;database=BhavnaCrop;Integrated Security=true;");
@@ -39,7 +41,7 @@ namespace CarManufacture
             Employees employees = new Employees();
             int Distribution= employees.GetTotalSalary();
             int Total = employees.EmpCount;
-            int TotalSal = Distribution * Total;
+            int TotalSal = (Distribution * Total);
              Value = TotalSal + EstimatedCost;
             Console.WriteLine("Total CarPrice:"+Value);
         }
@@ -118,6 +120,7 @@ namespace CarManufacture
                 scon.Open();
                 scmd1.ExecuteNonQuery();
                 scon.Close();
+                Console.WriteLine("Inserted Department Data Successfully");
             }
             catch (Exception ex)
             {

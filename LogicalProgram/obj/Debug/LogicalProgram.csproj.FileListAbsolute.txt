@@ -1,0 +1,7 @@
+D:\ATMTask\LogicalProgram\bin\Debug\LogicalProgram.exe.config
+D:\ATMTask\LogicalProgram\bin\Debug\LogicalProgram.exe
+D:\ATMTask\LogicalProgram\bin\Debug\LogicalProgram.pdb
+D:\ATMTask\LogicalProgram\obj\Debug\LogicalProgram.csproj.AssemblyReference.cache
+D:\ATMTask\LogicalProgram\obj\Debug\LogicalProgram.csproj.CoreCompileInputs.cache
+D:\ATMTask\LogicalProgram\obj\Debug\LogicalProgram.exe
+D:\ATMTask\LogicalProgram\obj\Debug\LogicalProgram.pdb

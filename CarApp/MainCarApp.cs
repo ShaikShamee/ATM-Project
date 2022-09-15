@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -59,28 +60,32 @@ namespace CarApp
                         switch (process)
                         {
                             case 1:
-                                employee.insertEmployee();
-                                Console.WriteLine("Inserted Employee Data Successfully");
-                                break;
+                                InsertEmployeeDel insertEmployeeDel = new InsertEmployeeDel(employee.InsertEmployee);
+                                insertEmployeeDel.Invoke();
+                            break;
                             case 2:
-                                employee.GetAllEmployee();
+                                GetAllEmployeeDel getAllEployeeDel = new GetAllEmployeeDel(employee.GetAllEmployee);
+                                getAllEployeeDel.Invoke();
                                 break;
                             case 3:
                                 Console.WriteLine("Total Salary:" + employee.GetTotalSalary());
                                 break;
                             case 4:
-                                department.GetDepartment();
+                                GetDepartmentDel getDepartmentDel = new GetDepartmentDel(department.GetDepartment);
+                                getDepartmentDel.Invoke();
                                 break;
                             case 5:
-                                department.InsertDepartment();
-                                Console.WriteLine("Inserted Department Data Successfully");
+                                InsertDepartmentDel insertDepartmentDel = new InsertDepartmentDel(department.InsertDepartment);
+                                insertDepartmentDel.Invoke();
                                 break;
                             case 6:
-                                carManufacture.GetManfactureList();
+                               GetManfactureListDel getManfactureList = new GetManfactureListDel(carManufacture.GetManfactureList);
+                                getManfactureList.Invoke();
                                 break;
                             case 7:
-                                carManufacture.InsertManfactureData();
-                                Console.WriteLine("Inserted Department Data Successfully");
+                                InsertManfactureDataDel insertManfactureDataDel = new InsertManfactureDataDel(carManufacture.InsertManfactureData);
+                                insertManfactureDataDel.Invoke();
+                             
                                 break;
                             default:
                                 Console.WriteLine("None of the Operations performance here");
@@ -96,9 +101,12 @@ namespace CarApp
                 {
                     Console.WriteLine("Invalid Credentials");
                 }
-                Console.ReadLine();
+              
+            }
+
+            Console.ReadLine();
             }
 
         }
     }
-}
+
