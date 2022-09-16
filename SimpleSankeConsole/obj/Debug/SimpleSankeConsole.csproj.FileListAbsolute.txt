@@ -1,0 +1,7 @@
+D:\ATMTask\SimpleSankeConsole\bin\Debug\SimpleSankeConsole.exe.config
+D:\ATMTask\SimpleSankeConsole\bin\Debug\SimpleSankeConsole.exe
+D:\ATMTask\SimpleSankeConsole\bin\Debug\SimpleSankeConsole.pdb
+D:\ATMTask\SimpleSankeConsole\obj\Debug\SimpleSankeConsole.csproj.AssemblyReference.cache
+D:\ATMTask\SimpleSankeConsole\obj\Debug\SimpleSankeConsole.csproj.CoreCompileInputs.cache
+D:\ATMTask\SimpleSankeConsole\obj\Debug\SimpleSankeConsole.exe
+D:\ATMTask\SimpleSankeConsole\obj\Debug\SimpleSankeConsole.pdb
