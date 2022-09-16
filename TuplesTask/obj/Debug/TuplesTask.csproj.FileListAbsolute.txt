@@ -1,0 +1,7 @@
+D:\ATMTask\TuplesTask\bin\Debug\TuplesTask.exe.config
+D:\ATMTask\TuplesTask\bin\Debug\TuplesTask.exe
+D:\ATMTask\TuplesTask\bin\Debug\TuplesTask.pdb
+D:\ATMTask\TuplesTask\obj\Debug\TuplesTask.csproj.AssemblyReference.cache
+D:\ATMTask\TuplesTask\obj\Debug\TuplesTask.csproj.CoreCompileInputs.cache
+D:\ATMTask\TuplesTask\obj\Debug\TuplesTask.exe
+D:\ATMTask\TuplesTask\obj\Debug\TuplesTask.pdb
